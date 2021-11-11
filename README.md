@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
   <a href="https://github.com/AstraaDev/Daiho-Tool">
-    <img src="https://img.shields.io/badge/covarage-95%25-green">
+    <img src="https://img.shields.io/badge/covarage-75%25-yellow">
   </a>
   <a href="https://github.com/AstraaDev">
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Daiho-Tool.svg?label=Repo%20size&style=flat-square">
