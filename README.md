@@ -47,7 +47,7 @@ By using Daiho, you agree that you hold responsibility and accountability of any
 - [ ] - [Image Grabber]() - Creates a Image to get a user's token.
 - [x] - [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
 - [ ] - [IP Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Grab any user IP.
-- [x] - [Account Nuker]() - Quit/Delete the servers, Delete friends and DMs, Create 100 servers and change the settings of a user. 
+- [x] - [Account Nuker]() - Quit the servers, Delete friends and DMs, Create 100 servers and change the settings of a user. 
 - [x] - [Disable Account]() - Disable a Discord Account whit his Token.
 - [x] - [Token Informations]() - Get all the information of a Discord User with his Token.
 - [x] - [AutoLogin](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Enter a user's token and automatically log in to the user's account.
