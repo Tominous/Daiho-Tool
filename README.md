@@ -33,7 +33,7 @@
 |Daiho was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using AstraaHome, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using Daiho, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
 - [] - [Self Bot]() - A simple SelfBot for your Account.
@@ -47,13 +47,15 @@ By using AstraaHome, you agree that you hold responsibility and accountability o
 - [] - [Image Grabber]() - Creates a Image to get a user's token.
 - [x] - [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
 - [] - [IP Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Grab any user IP.
-- [x] - [Token BrutForce]() - BrutForce the token of a target user by its ID (the process can be long).
-- [x] - [Token Rape]() - Quit the servers, Delete friends and DMs, change the settings of a user with his Token. 
+- [x] - [Account Nuker]() - Quit/Delete the servers, Delete friends and DMs, Sendd message to everyone, Create 100 servers and change the settings of a user with his Token. 
+- [x] - [Disable Account]() - Disable a Discord Account whit his Token.
 - [x] - [Token Informations]() - Get all the information of a Discord User with his Token.
 - [x] - [AutoLogin](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Enter a user's token and automatically log in to the user's account.
 - [x] - [Nitro Generator]() - Generates and tests a Nitro code. If it works, you will be notified.
-- [x] - [Token Generator]() - Generate and test a Discord Token. If it works, you will be notified.
+- [x] - [Nitro Sniper]() - Snipe all Nitro links from servers, DM as soon as they are posted then test them.
+- [x] - [Clear DM]() - Delete all your messages sent in DM to a user.
 - [x] - [HypeSquad House Changer]() - Select your HypeSquad House.
+- [x] - [Statue Changer]() - Change the statue of a user with his token.
 - [x] - [Cycle ColorTheme]() - Cycle the color of the Discord theme (Black/White) of a user with his Token.
 - [x] - [WebHooks Remover]() - Delete any WebHooks link.
 
