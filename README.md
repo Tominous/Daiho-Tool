@@ -83,7 +83,7 @@ Script Informations:
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png]()
+![home.png](https://cdn.discordapp.com/attachments/778283706388709376/908362935552860190/unknown.png)
 
 ## Errors/Fixes
 
