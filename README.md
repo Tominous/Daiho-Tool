@@ -36,7 +36,7 @@ This project was created only for good purposes and personal use.
 By using Daiho, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
-- [] - [Self Bot]() - A simple SelfBot for your Account.
+- [ ] - [Self Bot]() - A simple SelfBot for your Account.
 - [x] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
 - [x] - [Raid Tool]() - Easily raid a discord server with many Discord Tokens.
 - [x] - [Server Nuker](https://github.com/zetism/AveryNuker) - Easily nuke a discord server with a BOT Discord.
@@ -44,10 +44,10 @@ By using Daiho, you agree that you hold responsibility and accountability of any
 - [x] - [Massive Report]() - Loop that reports the message of a user (it can ban his account).
 - [x] - [WebHooks Spammer]() - Spam the message you want through a WebHooks.
 - [x] - [File Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Creates a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
-- [] - [Image Grabber]() - Creates a Image to get a user's token.
+- [ ] - [Image Grabber]() - Creates a Image to get a user's token.
 - [x] - [Token Qr Generator](https://github.com/AstraaDev/Discord-Qr-Code-Token) - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
-- [] - [IP Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Grab any user IP.
-- [x] - [Account Nuker]() - Quit/Delete the servers, Delete friends and DMs, Sendd message to everyone, Create 100 servers and change the settings of a user with his Token. 
+- [ ] - [IP Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Grab any user IP.
+- [x] - [Account Nuker]() - Quit/Delete the servers, Delete friends and DMs, Create 100 servers and change the settings of a user. 
 - [x] - [Disable Account]() - Disable a Discord Account whit his Token.
 - [x] - [Token Informations]() - Get all the information of a Discord User with his Token.
 - [x] - [AutoLogin](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Enter a user's token and automatically log in to the user's account.
